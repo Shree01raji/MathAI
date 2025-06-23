@@ -1,0 +1,6 @@
+[theme]
+primaryColor="#FF69B4"         # Pink
+backgroundColor="#18181B"      # Black
+secondaryBackgroundColor="#1E293B" # Dark blue
+textColor="#E0E6F0"            # Light blue/white
+font="sans serif"
